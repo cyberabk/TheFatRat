@@ -132,7 +132,7 @@ else
 fi
 
 # VARIABLE GLOBAL
-codename=Target
+codename=Game Changer
 OS=$(uname) # Detect Distro
 distro="$dist0"
 disrov="$rlname"
@@ -5793,7 +5793,7 @@ menu () {
   echo -e $okegreen"     /\ \.-.' \      $okegreen  |_| |_|_|___|__|  |___|_| |__|__|___|_|  	"
   echo -e $okegreen"    J  \.|'.\/ \                  				"
   echo -e $okegreen"    | |_.|. | | |   $white"[$okegreen--$white] $cyan " $white"Backdoor" Creator for Remote Acces $white[$okegreen--$white] 	"
-  echo -e $okegreen"     \__.' .|-' /   $white"[$okegreen--$white] $cyan" Created by: "$red"Edo Maland (Screetsec) $white[$okegreen--$white]	"
+  echo -e $okegreen"     \__.' .|-' /   $white"[$okegreen--$white] $cyan" Presented by: "$red"Abubakar, Rayyan, Aon (Screetsec) $white[$okegreen--$white]	"
   echo -e $okegreen"     L   /|o'--'\   $white"[$okegreen--$white] $cyan"           Version: $red"$Versi"           $white[$okegreen--$white]	"
   echo -e $okegreen"     |  /\/\/\   \  $white"[$okegreen--$white] $cyan"         Codename: $red"$codename"          $white[$okegreen--$white]    "
   echo -e $okegreen"     J /      \.__\ $white"[$okegreen--$white] $cyan"  Follow me on Github: $cyberabk   $white[$okegreen--$white]	"
@@ -6037,9 +6037,9 @@ echo -e $okegreen"      .<     __O     $okegreen  | | |   | -_|   __| .'|  _|   
 echo -e $okegreen"     /\ \.-.' \      $okegreen  |_| |_|_|___|__|  |___|_| |__|__|___|_|  	"
 echo -e $okegreen"    J  \.|'.\/ \                  				"
 echo -e $okegreen"    | |_.|. | | |   $white"[$okegreen--$white] $cyan " $white"Backdoor" Creator for Remote Acces $white[$okegreen--$white] 	"
-echo -e $okegreen"     \__.' .|-' /   $white"[$okegreen--$white] $cyan" Created by: "$red"Edo Maland (Screetsec) $white[$okegreen--$white]	"
+echo -e $okegreen"     \__.' .|-' /   $white"[$okegreen--$white] $cyan" Presented by: "$red"Abubakar, Rayyan, Aon $white[$okegreen--$white]	"
 echo -e $okegreen"     L   /|o'--'\   $white"[$okegreen--$white] $cyan"           Version: $red"$Versi"           $white[$okegreen--$white]	"
-echo -e $okegreen"     |  /\/\/\   \  $white"[$okegreen--$white] $cyan"         Codename: $red"$codename"          $white[$okegreen--$white]    "
+echo -e $okegreen"     |  /\/\/\   \  $white"[$okegreen--$white] $cyan"         Codename: "$red"Game Changer          $white[$okegreen--$white]    "
 echo -e $okegreen"     J /      \.__\ $white"[$okegreen--$white] $cyan"  Follow me on Github: cyberabk   $white[$okegreen--$white]	"
 echo -e $okegreen"     |/         /   $white"[$okegreen--$white] $cyan"   				     $white[$okegreen--$white]		"
 echo -e $okegreen"       \      .'\.  $white"[$okegreen--$white]$white "    SELECT AN OPTION TO BEGIN:      $white[$okegreen--$white]  "

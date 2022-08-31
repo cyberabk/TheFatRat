@@ -4,8 +4,8 @@
 #  Filename: TheFatRat(v1.9.8#dev)       (Update: 2022-01-27) #
 #-Info--------------------------------------------------------#
 #  TheFatRat - A Massive Exploiting Tool                      #
-#-Author(s)---------------------------------------------------#
-#  Edo maland ~ @screetsec                                    #
+#-Presented By(s)---------------------------------------------------#
+#  Abubakar, Rayyan, Aon                                    #
 #-Operating System--------------------------------------------#
 #  Designed for & tested on: Linux 	                      #
 #  Reported working : Ubuntu 16                               #
@@ -1175,7 +1175,7 @@ clear
 	echo ""
 	echo -e $yellow"[*] Thank You For Using TheFatRat  =)."
 	echo ""
-	echo -e $yellow"[*] Check Dracos Linux LFS, Penetration OS From Indonesia  =P."
+	echo -e $yellow"[*] Check Dracos Linux LFS, Penetration OS  =P."
  exit
 }
 
@@ -1489,20 +1489,6 @@ else
     echo -e  $cyan":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
     echo ""
     echo -e $white		" 			             /)  "
-    echo " 			            // "
-    echo " 			            (( "
-    echo " 			            // "
-    echo " 			     .-.   //  .-. "
-    echo " 			    /   \- ((=-/  \ "
-    echo " 			    \       \     / "
-    echo " 			     -( ___ ))__)-  "
-    echo " 			     .-'   //  '-. "
-    echo " 			    /     ((      \ "
-    echo " 			    |       *     | "
-    echo " 			    \             / "
-    echo " 			     \   |_w_|   / "
-    echo " 			     _)  \   /  (_ "
-    echo "			jgs (((---'   '---))) "
     echo -e $cyan":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
     echo -e $white":::::::::::::::: Wait for starting a Service  Postgresql ::::::::::::::::"
     echo -e $cyan":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
@@ -1532,8 +1518,8 @@ echo " | |   | '_ \ / _ \/ __| |/ / | '_ \ / _\ |            "
 echo " | |___| | | |  __/ (__|   <| | | | | (_| |  _   _   _ "
 echo "  \____|_| |_|\___|\___|_|\_\_|_| |_|\__/ | (_) (_) (_)"
 echo "                                     	|___/    "
-echo -e $lightgreen'-- -- +=[(c) 2016-2017 | dracos-linux.org | Linuxsec.org | Hacker Indonesia '
-echo -e $cyan'-- -- +=[ Author: Screetsec < Edo Maland >  ]=+ -- -- '
+echo -e $lightgreen'-- -- +=[(c) 2016-2021 | dracos-linux.org | Linuxsec.org '
+echo -e $cyan'-- -- +=[ Presented By: < Abubakar, Rayyan, Aon >  ]=+ -- -- '
 echo -e " "
 
 if [ $(id -u) != "0" ]; then
@@ -2034,7 +2020,7 @@ echo -e $yellow"  \(@)(@)(@)(@)(@)(@)(@)/ "
 echo -e $red"  *********************  "
 echo ""
 echo -e $okegreen"  ===================================================================== "
-echo -e " |                     $cyan        Created by $red Edo Maland  ( Screetsec )  $okegreen | "
+echo -e " |                     $cyan        Presented by $Abubakar, Rayyan, Aon  $okegreen | "
 echo -e $okegreen"  ===================================================================== "
 echo ""
  			echo -e $okegreen "	[1]  LINUX >> FatRat.elf"
@@ -3063,7 +3049,7 @@ echo "   |_______ \__/____  > |__|  \___  >___|  /\___  >__|  /____  >"
 echo "           \/       \/            \/     \/     \/           \/ "
 echo -e $"                                                               >> v1.3 "
 echo -e $okegreen"  ===================================================================== "
-echo -e " |                     $cyan        Created by $red Edo Maland  ( Screetsec )  $okegreen | "
+echo -e " |                     $cyan        Presented by $Abubakar, Rayyan, Aon   $okegreen | "
 echo -e $okegreen"  ===================================================================== "
 			echo ""
  			echo -e $okegreen"	[1]  Listeners for payload linux"
@@ -3552,8 +3538,8 @@ rm -rf $msploit >/dev/null 2>&1
 
 APPNAME='Microsfot Metasploit Packet [ Easy ]'
 VERSION='1.0.0'
-NAME='Screetsec - Edo Malad '
-CODENAME='Mario Bros'
+NAME='Abubakar, Rayyan, Aon'
+CODENAME='game changer'
 
   clear
   echo -e $red"  <==============================================>"
@@ -3565,7 +3551,7 @@ CODENAME='Mario Bros'
   echo -e $red"  <===================================================>"
   echo -e "\t$white||  "$white" |=| "$okegreen"$APPNAME $white||"
   echo -e "\t||  $white |=| "$okegreen"Version : $VERSION \t\t   $white   ||"
-  echo -e "\t||  $white |=| "$okegreen"Code by : $NAME $white    || "
+  echo -e "\t||  $white |=| "$okegreen"Presented by : $NAME $white    || "
   echo -e "\t||  $white |=| "$okegreen"Codename: $CODENAME $white \t\t      || "
   echo -e $white"\t||"$red"============================================$white||\n"
   echo -e $white"  |"$okegreen"1$white| "$cyan"Microsoft Stack overflow in MSCOMCTL.OCX"
@@ -4505,7 +4491,7 @@ echo -e $red"	            )_/    $cyan     \ IIIIII /                    "
 echo -e $red"	         $yellow  (@        $cyan    --------                      "
 echo -e $cyan"		            PwnWind Version $red v1.5 "
 echo -e $cyan"		        Pwned Windows with backdoor"
-echo -e " 		      Author : $red""Edo Maland (Screetsec)"
+echo -e " 		      Presented By : $Abubakar, Rayyan, Aon"
 echo -e $red"  	     Powershell$cyan Injection attacks on any$red Windows Platform	           ";
 			echo ""
  			echo -e $yellow"	[1] $okegreen Create a bat file+Powershell (FUD 100%)"
@@ -5383,7 +5369,7 @@ echo "  |____|   |__|   \____/_______  /\___  >___  /__|";
 echo -e "                               \/     \/    \/    \n";
 echo -e "\tTroDebi  -  Trojan Debian Package For Remote Acces   ";
 echo -e "\tVersion  -  1.0   "
-echo -e "\tWrite by -  screetsec                                           \n\n       "
+echo -e "\tPresented by -  Abubakar, Rayyan, Aon                                           \n\n       "
 echo -e "   [desc] - Embed a Trojan Into Deb PKG + Run Post Install       "
   echo -e $okegreen""
         echo -e $yellow "  Your local IPV4 address is : ${lanip}"
@@ -5453,7 +5439,7 @@ echo -e "   [desc] - Embed a Trojan Into Deb PKG + Run Post Install       "
 
 ########################################### MENU AVOID ############################################################
 #
-#recoded AVOID ( AV0id - Metapsloit Payload Anti-Virus Evasion ) to next version - Screetsec ( Edo -maland )
+#recoded AVOID ( AV0id - Metapsloit Payload Anti-Virus Evasion ) to next version - Abubakar, Rayyan, Aon
 #Released as open source by NCC Group Plc - http://www.nccgroup.com/
 #Developed or original code by Daniel Compton, daniel dot compton at nccgroup dot com
 #Removed Deprecated Commands in favor of MsfVenom by Jason Soto www.jsitech.com
@@ -5537,7 +5523,7 @@ echo "   	            ::::::88::88:::::::88::::::	"
 echo "   	                :::::::::::::::::::	"
 echo "   	                     ::::::::: 	"
 echo ""
-echo -e -$cyan	"                REMAKE:$red "Screetsec" $cyan( Edo -maland- ) "
+echo -e -$cyan	"                REMAKE:$red "Game-Changer" $cyan( Abubakar, Rayyan, Aon ) "
 echo -e "      OPEN SOURCE : $red "NCC Group Plc" $cyan( http://www.nccgroup.com ) "
 echo -e "  DEVELOPED : $red Daniel Compton, daniel dot compton at nccgroup dot com "
 echo -e $cyan"========================================================================"
@@ -5610,13 +5596,6 @@ echo ""
 # ANOTHER MENU
 clear
 echo "						"
-echo -e $cyan"=================================================================="
-echo -e $okegreen"   __            _                                    _  __  "
-echo "  / _|_   _  ___| | ___   _  ___  _   _ _ __ ___  ___| |/ _| "
-echo " | |_| | | |/ __| |/ / | | |/ _ \| | | | '__/ __|/ _ \ | |_  "
-echo " |  _| |_| | (__|   <| |_| | (_) | |_| | |  \__ \  __/ |  _| "
-echo " |_|  \____|\___|_|\_\\___ |\___/ \____|_|  |___/\___|_|_|   "
-echo "                      |___/                                 "
 echo -e $cyan"=================================================================="
 echo -e $red""
 echo -e $okegreen"            ||||||||||||||	"
@@ -5817,7 +5796,7 @@ menu () {
   echo -e $okegreen"     \__.' .|-' /   $white"[$okegreen--$white] $cyan" Created by: "$red"Edo Maland (Screetsec) $white[$okegreen--$white]	"
   echo -e $okegreen"     L   /|o'--'\   $white"[$okegreen--$white] $cyan"           Version: $red"$Versi"           $white[$okegreen--$white]	"
   echo -e $okegreen"     |  /\/\/\   \  $white"[$okegreen--$white] $cyan"         Codename: $red"$codename"          $white[$okegreen--$white]    "
-  echo -e $okegreen"     J /      \.__\ $white"[$okegreen--$white] $cyan"  Follow me on Github: $red@Screetsec   $white[$okegreen--$white]	"
+  echo -e $okegreen"     J /      \.__\ $white"[$okegreen--$white] $cyan"  Follow me on Github: $cyberabk   $white[$okegreen--$white]	"
   echo -e $okegreen"     J /      \.__\ $white"[$okegreen--$white] $cyan"  Dracos Linux : $red@dracos-linux.org  $white[$okegreen--$white]	"
   echo -e $okegreen"     |/         /   $white"[$okegreen--$white] $cyan"   				     $white[$okegreen--$white]		"
   echo -e $okegreen"       \      .'\.  $white"[$okegreen--$white]$white "    SELECT AN OPTION TO BEGIN:      $white[$okegreen--$white]  "
@@ -6017,7 +5996,7 @@ menu () {
 
       elif test $fatrat == '15'
         then
-        firefox https://github.com/Screetsec/TheFatRat/blob/master/README.md
+        firefox https://github.com/cyberabk/TheFatRat/blob/master/README.md
         clear
        	menu
 
@@ -6061,8 +6040,7 @@ echo -e $okegreen"    | |_.|. | | |   $white"[$okegreen--$white] $cyan " $white"
 echo -e $okegreen"     \__.' .|-' /   $white"[$okegreen--$white] $cyan" Created by: "$red"Edo Maland (Screetsec) $white[$okegreen--$white]	"
 echo -e $okegreen"     L   /|o'--'\   $white"[$okegreen--$white] $cyan"           Version: $red"$Versi"           $white[$okegreen--$white]	"
 echo -e $okegreen"     |  /\/\/\   \  $white"[$okegreen--$white] $cyan"         Codename: $red"$codename"          $white[$okegreen--$white]    "
-echo -e $okegreen"     J /      \.__\ $white"[$okegreen--$white] $cyan"  Follow me on Github: $red@Screetsec   $white[$okegreen--$white]	"
-echo -e $okegreen"     J /      \.__\ $white"[$okegreen--$white] $cyan"  Dracos Linux : $red@dracos-linux.org  $white[$okegreen--$white]	"
+echo -e $okegreen"     J /      \.__\ $white"[$okegreen--$white] $cyan"  Follow me on Github: cyberabk   $white[$okegreen--$white]	"
 echo -e $okegreen"     |/         /   $white"[$okegreen--$white] $cyan"   				     $white[$okegreen--$white]		"
 echo -e $okegreen"       \      .'\.  $white"[$okegreen--$white]$white "    SELECT AN OPTION TO BEGIN:      $white[$okegreen--$white]  "
 echo -e $okegreen"    ____)_/\_(___\. $white"[$okegreen--$white] ".___________________________________$white[$okegreen--$white]	"

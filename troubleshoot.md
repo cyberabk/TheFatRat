@@ -19,7 +19,7 @@ After this point , execute ./setup.sh on fatrat folder , so mingw packages could
 from the Kali repositories .
 
 - If you recently installed fatrat then you probably will have an issue with powerstager with error I/O when it tries to write the backdoor output file , to solve that issue you must add debian jessie repositories to your file /etc/apt/sources.list and deisable any new repository there , then uninstall and remove your current mingw instalation and run setup.sh from fatrat again .
-* - look here https://github.com/Screetsec/TheFatRat/issues/391
+* - look here https://github.com/cyberabk/TheFatRat/issues/391
 
 # Install mingw 4.9.1 version from Debian Repository required for Powerstager
 
@@ -72,7 +72,7 @@ The solution is to install names python module by running in your terminal ( pip
 
 ## Running Powerstager you get the message (IOError: [Errno 2] No such file or directory: )
 the solution for this problem is to downgrade your mingw packages , check this topic : 
-https://github.com/Screetsec/TheFatRat/issues/391
+https://github.com/cyberabk/TheFatRat/issues/391
 
 ## Package exact names installed by fatart during setup :
 
@@ -104,5 +104,5 @@ chmod +x chk_tools && ./chk_tools
 
 
 ## How to Access root folder on kali 2020/21
-https://github.com/Screetsec/TheFatRat/issues/421#issuecomment-593453573
+https://github.com/cyberabk/TheFatRat/issues/421#issuecomment-593453573
 

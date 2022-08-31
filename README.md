@@ -37,7 +37,7 @@ Developers assume no liability and are not responsible for any misuse or damage 
 # Installation
 Instructions on how to install *TheFatRat*
 ```bash
-git clone https://github.com/Screetsec/TheFatRat.git
+git clone https://github.com/cyberabk/TheFatRat.git
 cd TheFatRat
 chmod +x setup.sh && ./setup.sh
 ```
@@ -59,7 +59,7 @@ chmod +x chk_tools
 ## Tools Overview
 | Front View | Sample Feature	|
 | ------------  | ------------ |
-|![Index](https://cloud.githubusercontent.com/assets/17976841/25420100/9ee12cf6-2a80-11e7-8dfa-c2e3cfe71366.png)|![f](https://user-images.githubusercontent.com/17976841/65820886-91a4b200-e258-11e9-9a00-1e5905f6be16.jpg)
+|![Index](https://i.postimg.cc/KzWWKBwg/7.jpg)|![f](https://i.postimg.cc/L5MbB24H/8.jpg)
 
 ## Documentation
 - Documentation Available in Modules CEH v9 and V10 , Download source here 
@@ -80,7 +80,7 @@ chmod +x chk_tools
 
 
 ## Changelog
-All notable changes to this project will be documented in this [file](https://github.com/Screetsec/thefatrat/blob/master/CHANGELOG.md).
+All notable changes to this project will be documented in this [file](https://github.com/cyberabk/thefatrat/blob/master/CHANGELOG.md).
 
 ### About issues
 - Read the [document](https://github.com/Screetsec/TheFatRat/blob/master/issues.md) before making an issue
@@ -107,6 +107,6 @@ All notable changes to this project will be documented in this [file](https://gi
 - [Gauli(dot)Net](https://gauli.net/) - Lab Penetration
 
 ## License
-TheFatRat is made with 🖤 by Edo Maland & All [Contributors](https://github.com/Screetsec/TheFatRat/graphs/contributors). See the **License** file for more details.
+TheFatRat is Presented with 🖤 by Abubakar, Rayyan, Aon & All [Contributors](https://github.com/cyberabk/TheFatRat/graphs/contributors). See the **License** file for more details.
 
 

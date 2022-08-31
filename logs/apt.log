@@ -1,0 +1,50 @@
+Fatrat package location diagnostic
+-----------------------------------
+sudo - Exist in user repository
+netcat - Exist in user repository
+xterm - Exist in user repository
+dnsutils - Exist in user repository
+mono-mcs - Exist in user repository
+gcc - Exist in user repository
+apache2 - Exist in user repository
+gnome-terminal - Exist in user repository
+upx-ucl - Exist in user repository
+ruby - Exist in user repository
+openssl - Exist in user repository
+zlib1g-dev - Exist in user repository
+lib32z1 - Exist in user repository
+lib32ncurses5 - Does not exist in user repository
+lib32stdc++6 - Does not exist in user repository
+python2-minimal - Exist in user repository
+python3 - Exist in user repository
+python3-pip - Exist in user repository
+build-essential - Exist in user repository
+default-jdk - Exist in user repository
+default-jre - Exist in user repository
+unzip - Exist in user repository
+mingw32 - Does not exist in user repository
+mingw-w64 - Exist in user repository
+exploitdb - Exist in user repository
+backdoor-factory - Exist in user repository
+metasploit-framework - Exist in user repository
+ - Exist in user repository
+
+-----------------------------------
+User path environment
+-----------------------------------
+/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/root/.dotnet/tools
+-----------------------------------
+User current repositories
+-----------------------------------
+# See https://www.kali.org/docs/general-use/kali-linux-sources-list-repositories/
+deb http://http.kali.org/kali kali-rolling main contrib non-free
+
+# Additional line for source packages
+# deb-src http://http.kali.org/kali kali-rolling main contrib non-free
+-----------------------------------
+-----------------------------------
+Linux kali 5.18.0-kali5-amd64 #1 SMP PREEMPT_DYNAMIC Debian 5.18.5-1kali6 (2022-07-07) x86_64 GNU/Linux
+-----------------------------------
+         Access User Level         
+-----------------------------------
+-----------------------------------

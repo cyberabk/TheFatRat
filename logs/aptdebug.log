@@ -1,0 +1,6 @@
+Ign:1 http://deb.debian.org/debian jessie InRelease
+Hit:2 https://cli-assets.heroku.com/apt ./ InRelease
+Get:3 http://deb.debian.org/debian jessie Release [77.3 kB]
+Get:4 http://deb.debian.org/debian jessie Release.gpg [1,652 B]
+Ign:4 http://deb.debian.org/debian jessie Release.gpg
+Reading package lists...

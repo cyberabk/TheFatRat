@@ -95,7 +95,7 @@ else
 fi
 
 ###################################################################################################
-# FatRat Coded By Screetsec ( Edo Maland )
+# FatRat Presented By ( Abubakar, Rayyan, Aon )
 # Program to create a C program after it is compiled that will bypass most AV
 # Test in Kali Linux :)
 # Very Slow to create Backdoor But Very powerfull for bypass AV

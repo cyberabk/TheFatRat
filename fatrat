@@ -132,7 +132,7 @@ else
 fi
 
 # VARIABLE GLOBAL
-codename=Game Changer
+codename=GameChanger
 OS=$(uname) # Detect Distro
 distro="$dist0"
 disrov="$rlname"
